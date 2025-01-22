@@ -1,4 +1,5 @@
-const BASEURL = "http://localhost:8000/api";
+// const BASEURL = "http://localhost:8000/api";
+const BASEURL = "https://insta-server-zxgw.onrender.com/api";
 //Auth Endpoints
 
 export const authEndpoints = {
